@@ -1,0 +1,164 @@
+{
+  "layout": {
+    "title": "Developer Portfolio",
+    "description": "Modern developer portfolio inspired by Terminal Industries"
+  },
+  "ui": {
+    "loading": "Loading portfolio...",
+    "menuOpen": "Close menu",
+    "menuClosed": "Open menu",
+    "systemStatusLabel": "Hi i am Kussagra",
+    "systemStatusDescription": "System status: live",
+    "sectionTitles": {
+      "about": "About",
+      "skills": "Skills",
+      "experience": "Experience",
+      "projects": "Projects",
+      "publications": "Publications",
+      "openSource": "Open Source",
+      "contact": "Contact"
+    },
+    "sectionSubtitles": {
+      "skills": "Technical craft & systems expertise.",
+      "experience": "Work history with impact metrics.",
+      "projects": "Featured work with system-level polish.",
+      "publications": "Selected writing and research.",
+      "openSource": "Contributions to community tooling."
+    },
+    "footerLabel": "Terminal footer",
+    "enterpriseTag": "Enterprise",
+    "quickFacts": "Quick facts",
+    "coreCapabilitiesTitle": "Core capabilities"
+  },
+  "header": {
+    "title": "KP",
+    "navLinks": [
+      { "label": "About", "href": "#about" },
+      { "label": "Skills", "href": "#skills" },
+      { "label": "Experience", "href": "#experience" },
+      { "label": "Projects", "href": "#projects" },
+      { "label": "Publications", "href": "#publications" },
+      { "label": "Contact", "href": "#contact" }
+    ]
+  },
+  "hero": {
+    "headline": "Building Scalable Apps with Engineering Precision",
+    "subheading": "I am a Full-Stack Developer & Tech Visionary specializing in Angular, Flutter, and Node.js. I transform complex ideas into production-ready software with a focus on clean architecture and seamless user experiences.",
+    "status": "Available for freelance / contract work",
+    "cta": "Explore projects",
+    "scroll": "Scroll for details"
+  },
+  "about": {
+    "heading": "Crafting resilient systems with a developer-first mindset.",
+    "description": "Passionate Software Engineer with over 2 years of experience designing high-quality, scalable applications. I focus on modular architecture and efficiency, having delivered 6+ full-stack projects with a strong academic foundation in Computer Science (9.23 CGPA).",
+    "highlights": [
+      { "label": "Focus", "value": "Full-stack development, mobile ecosystems, clean architecture" },
+      { "label": "Approach", "value": "Maintainable code, performance-first, iterative innovation" },
+      { "label": "Experience", "value": "2+ years of professional engineering" },
+      { "label": "Values", "value": "Clarity, maintainability, continuous learning" }
+    ],
+    "capabilities": [
+      "Angular PWA and Cross-Platform Flutter development",
+      "Scalable Node.js and REST API architecture",
+      "UI/UX optimization and modular SCSS systems",
+      "Machine Learning integration and performance monitoring"
+    ]
+  },
+  "skills": [
+    {
+      "title": "Frontend",
+      "items": ["Angular", "Flutter", "SCSS/Tailwind", "RxJS"]
+    },
+    {
+      "title": "Backend & Mobile",
+      "items": ["Node.js/Express", "MongoDB/Firebase", "Kotlin/Jetpack", "Dart"]
+    },
+    {
+      "title": "Tools & DevOps",
+      "items": ["Git", "Docker", "Postman", "Figma", "Jira"]
+    }
+  ],
+  "experience": [
+    {
+      "period": "Jan 2025 - Present",
+      "title": "Senior Software Engineer",
+      "company": "Bajaj Finserv",
+      "bullets": [
+        "Leading development of cross-platform apps including Angular PWAs and Kotlin Android apps",
+        "Mentoring junior developers and enforcing architectural best practices",
+        "Collaborating with cross-functional teams to deliver scalable solutions ahead of deadlines"
+      ]
+    },
+    {
+      "period": "Jul 2023 - Dec 2024",
+      "title": "Software Engineer",
+      "company": "Bajaj Finserv",
+      "bullets": [
+        "Designed and implemented high-performance Angular PWA modules with reusable components",
+        "Optimized SCSS for faster load times and improved maintainability",
+        "Enforced modular architecture standards across large-scale projects"
+      ]
+    },
+    {
+      "period": "Jan 2023 - Jun 2023",
+      "title": "Internship Trainee",
+      "company": "Bajaj Finserv",
+      "bullets": [
+        "Built internal productivity tools using Flutter and Firebase",
+        "Participated in Agile sprints to improve operational efficiency",
+        "Gained hands-on experience in full-stack development and team collaboration"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "title": "SkillStack",
+      "description": "A Flutter-based productivity app for developers to capture ideas, generate documentation, and organize tasks.",
+      "image": "assets/images/skillstack.png"
+    },
+    {
+      "number": "02",
+      "title": "Code Analyzer",
+      "description": "Multi-language static analysis tool for vulnerability detection supporting JS/TS, Python, and Java.",
+      "image": "assets/images/code-analyzer.png"
+    },
+    {
+      "number": "03",
+      "title": "DevPulse",
+      "description": "Real-time project management tool that calculates deadlines dynamically based on developer capacity.",
+      "image": "assets/images/devpulse.png"
+    }
+  ],
+  "publications": [
+    { "title": "Sentiment Analysis for Depression using Human Expression", "source": "ICSES / IEEE Xplore", "year": "2024" },
+    { "title": "Diagnosis of Depressive Disorder Based on Facial and Text-Based Features", "source": "ICECONF / IEEE Xplore", "year": "2023" }
+  ],
+  "openSource": [
+    { "repo": "code-analyzer", "contribution": "Pattern-based vulnerability scanner for security researchers", "link": "https://github.com/kush11251/code-analyzer" },
+    { "repo": "Car-tracker", "contribution": "Python-based trajectory prediction and path visualization", "link": "https://github.com/kush11251/Car-tracker" }
+  ],
+  "contact": {
+    "heading": "Get In Touch",
+    "intro": "Ready to bring your ideas to life? I'm always excited to work on innovative projects and collaborate with fellow developers. Let's build something amazing.",
+    "details": [
+      { "label": "Email", "value": "info@kussagrapathak.in", "href": "mailto:info@kussagrapathak.in" },
+      { "label": "GitHub", "value": "github.com/kush11251", "href": "https://github.com/kush11251" },
+      { "label": "LinkedIn", "value": "linkedin.com/in/kush11251", "href": "https://linkedin.com/in/kush11251" }
+    ],
+    "facts": [
+      { "label": "Availability", "value": "Freelance / Contract" },
+      { "label": "Location", "value": "Pune, India" },
+      { "label": "Primary Tools", "value": "Angular, Node.js, Flutter, Docker" },
+      { "label": "Interests", "value": "Open Source, UI/UX, AI/ML Trends" }
+    ]
+  },
+  "footer": {
+    "note": "Designed by Kussagra Pathak | Precision UI and Scalable Systems.",
+    "links": [
+      { "label": "GitHub", "href": "https://github.com/kush11251" },
+      { "label": "LinkedIn", "href": "https://linkedin.com/in/kush11251" },
+      { "label": "Email", "href": "mailto:info@kussagrapathak.in" }
+    ]
+  }
+}
