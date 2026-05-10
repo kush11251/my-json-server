@@ -66,13 +66,13 @@
     ]
   },
   "profile": {
-    "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=640&q=80",
-    "miniAvatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=140&q=80",
+    "avatarUrl": "https://res.cloudinary.com/di98dzmpu/image/upload/v1778406484/uploads/j6nsjl4jcfwhrdybyyv6.png",
+    "miniAvatarUrl": "https://res.cloudinary.com/di98dzmpu/image/upload/v1778406613/uploads/h549zr2kpso7ecivqgpr.png",
     "name": "Kussagra Pathak",
-    "title": "Full-Stack Developer & Cloud Engineer",
+    "title": "",
     "handle": "kussagra",
-    "status": "Available for new opportunities",
-    "contactText": "Let’s Talk"
+    "status": "Senior Software Developer",
+    "contactText": "Connect"
   },
   "skills": [
     {
