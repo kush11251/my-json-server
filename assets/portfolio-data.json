@@ -65,6 +65,15 @@
       "DevOps & CI/CD Pipeline"
     ]
   },
+  "profile": {
+    "avatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=640&q=80",
+    "miniAvatarUrl": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=140&q=80",
+    "name": "Kussagra Pathak",
+    "title": "Full-Stack Developer & Cloud Engineer",
+    "handle": "kussagra",
+    "status": "Available for new opportunities",
+    "contactText": "Let’s Talk"
+  },
   "skills": [
     {
       "title": "Frontend",
