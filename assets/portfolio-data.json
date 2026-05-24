@@ -145,28 +145,28 @@
       "title": "E-Commerce Platform",
       "description": "Full-stack e-commerce solution with real-time inventory management and payment processing",
       "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=500&h=300&fit=crop",
-      "link": "http://qr-code-generator.kussagrapathak.in/"
+      "link": ""
     },
     {
       "number": "03",
       "title": "Daily Task Manager",
       "description": "Real-time task management application with due dates and vault storage",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
-      "link": "http://qr-code-generator.kussagrapathak.in/"
+      "link": ""
     },
     {
       "number": "04",
       "title": "AI Chat Application",
       "description": "Modern chat application with AI-powered responses and real-time messaging",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec2e4c11b3d?w=500&h=300&fit=crop",
-      "link": "http://qr-code-generator.kussagrapathak.in/"
+      "link": ""
     },
     {
       "number": "05",
       "title": "Fitness Tracking App",
       "description": "Mobile-first fitness tracking application with workout planning and progress analytics",
       "image": "https://images.unsplash.com/photo-1611224885121-4b6f6627feea?w=500&h=300&fit=crop",
-      "link": "http://qr-code-generator.kussagrapathak.in/"
+      "link": ""
     }
   ],
   "publications": [
