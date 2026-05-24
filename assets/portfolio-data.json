@@ -160,13 +160,6 @@
       "description": "Modern chat application with AI-powered responses and real-time messaging",
       "image": "https://images.unsplash.com/photo-1587614382346-4ec2e4c11b3d?w=500&h=300&fit=crop",
       "link": ""
-    },
-    {
-      "number": "05",
-      "title": "Fitness Tracking App",
-      "description": "Mobile-first fitness tracking application with workout planning and progress analytics",
-      "image": "https://images.unsplash.com/photo-1611224885121-4b6f6627feea?w=500&h=300&fit=crop",
-      "link": ""
     }
   ],
   "publications": [
