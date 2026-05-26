@@ -152,10 +152,10 @@
     },
     {
       "number": "03",
-      "title": "Daily Task Manager",
-      "description": "Real-time task management application with due dates and vault storage",
+      "title": "Code Share",
+      "description": "A collaborative code sharing platform that allows developers to share and discuss code snippets in real-time",
       "image": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=500&h=300&fit=crop",
-      "link": ""
+      "link": "http://code-share.kussagrapathak.in/"
     },
     {
       "number": "04",
