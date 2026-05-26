@@ -25,7 +25,7 @@
       "publications": "Technical articles and writeups",
       "openSource": "Community contributions"
     },
-    "footerLabel": "FOOTER",
+    "footerLabel": "Kussagra Pathak",
     "enterpriseTag": "Enterprise",
     "quickFacts": "QUICK FACTS",
     "coreCapabilitiesTitle": "CORE CAPABILITIES"
@@ -103,6 +103,7 @@
       "period": "Jan 2025 - Present",
       "title": "Senior Software Engineer",
       "company": "Bajaj Finserv",
+      "tag": "Manager/ Senior Developer",
       "bullets": [
         "Led development of customer-facing dashboard used by 10k+ users",
         "Improved application performance by 40% through optimization",
@@ -114,8 +115,9 @@
       "period": "Jul 2023 - Dec 2024",
       "title": "Software Engineer",
       "company": "Bajaj Finserv",
+      "tag": "Software Developer",
       "bullets": [
-        "Developed and maintained 2+ production applications",
+        "Developed and maintained 4+ production applications",
         "Designed and implemented microservices architecture",
         "Built Angular PWA and mobile components",
         "Optimized UI with SCSS and reusable components"
@@ -123,8 +125,9 @@
     },
     {
       "period": "Jan 2023 - Jun 2023",
-      "title": "Junior Developer",
-      "company": "Web Development Studio",
+      "title": "Internship Trainee",
+      "company": "Bajaj Finserv",
+      "tag": "Internship",
       "bullets": [
         "Created internal Flutter + Firebase tools for project management",
         "Collaborated in Agile teams to deliver projects on time",
@@ -142,10 +145,10 @@
     },
     {
       "number": "02",
-      "title": "E-Commerce Platform",
-      "description": "Full-stack e-commerce solution with real-time inventory management and payment processing",
+      "title": "Json Studio",
+      "description": "A JSON editor and validator with a developer-friendly interface, supporting real-time validation and formatting",
       "image": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=500&h=300&fit=crop",
-      "link": ""
+      "link": "http://json-studio.kussagrapathak.in/"
     },
     {
       "number": "03",
@@ -164,19 +167,14 @@
   ],
   "publications": [
     {
-      "title": "Scaling React Applications for Production",
-      "source": "Medium",
-      "year": "2023"
+      "title": "Sentiment Analysis for Depression using Human Expression",
+      "source": "https://ieeexplore.ieee.org/document/10465560",
+      "year": "2024"
     },
     {
-      "title": "Building Serverless APIs with AWS Lambda",
-      "source": "Dev.to",
+      "title": "Diagnosis of Depressive Disorder Based on Facial and Text-Based Features Using Effective Techniques",
+      "source": "https://ieeexplore.ieee.org/document/10083832",
       "year": "2023"
-    },
-    {
-      "title": "Next.js Performance Tips and Tricks",
-      "source": "CSS-Tricks",
-      "year": "2022"
     }
   ],
   "openSource": [
