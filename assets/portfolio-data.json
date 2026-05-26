@@ -179,19 +179,9 @@
   ],
   "openSource": [
     {
-      "repo": "react-hooks-library",
-      "contribution": "Popular React hooks collection with 2k+ stars",
-      "link": "https://github.com/username/react-hooks-library"
-    },
-    {
-      "repo": "next-auth-starter",
-      "contribution": "Next.js authentication starter template",
-      "link": "https://github.com/username/next-auth-starter"
-    },
-    {
-      "repo": "tailwind-plugins",
-      "contribution": "Custom Tailwind CSS plugins and utilities",
-      "link": "https://github.com/username/tailwind-plugins"
+      "repo": "redis-performance-scaling",
+      "contribution": "The Problem-Solver: How to Scale Your Application’s Performance Using Redis",
+      "link": "https://medium.com/@kussagra.pathak/the-problem-solver-how-to-scale-your-applications-performance-using-redis-179e30557929"
     }
   ],
   "contact": {
