@@ -182,6 +182,11 @@
       "repo": "redis-performance-scaling",
       "contribution": "The Problem-Solver: How to Scale Your Application’s Performance Using Redis",
       "link": "https://medium.com/@kussagra.pathak/the-problem-solver-how-to-scale-your-applications-performance-using-redis-179e30557929"
+    },
+    {
+      "repo": "ai-everyday",
+      "contribution": "Beyond the Hype: How Normal People Actually Use AI to Make Life 10% Easier",
+      "link": "https://medium.com/@kussagra.pathak/beyond-the-hype-how-normal-people-actually-use-ai-to-make-life-10-easier-b8139ddda39d"
     }
   ],
   "contact": {
