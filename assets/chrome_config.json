@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "header": {
+    "visible": true,
+    "backgroundColor": "#FF1B3054",
+    "textColor": "#FFFFFFFF",
+    "searchHint": "Search Bajaj Finance",
+    "quickActions": [
+      { "id": "loans", "label": "LOANS", "icon": "ic_loans", "action": "open_fragment_1" },
+      { "id": "emi", "label": "EMI", "icon": "ic_emi", "action": "open_fragment_1" },
+      { "id": "rewards", "icon": "ic_rewards", "action": "open_fragment_1" },
+      { "id": "cart", "icon": "ic_cart", "action": "open_fragment_1" },
+      { "id": "alerts", "icon": "ic_bell", "action": "open_fragment_1" }
+    ]
+  },
+  "footer": {
+    "visible": true,
+    "backgroundColor": "#FFFFFFFF",
+    "selectedColor": "#FFF07D22",
+    "unselectedColor": "#FF1B3054",
+    "selectedItemId": "home",
+    "items": [
+      { "id": "home", "label": "Home", "icon": "ic_home", "action": "open_fragment_1" },
+      { "id": "service", "label": "Service", "icon": "ic_service", "action": "open_fragment_2", "payload": "https://www.bajajfinserv.in/" },
+      { "id": "scan", "label": "Scan QR", "icon": "ic_scan_qr", "action": "open_fragment_1", "highlighted": true },
+      { "id": "offers", "label": "Offers", "icon": "ic_offers", "action": "open_web", "payload": "https://www.bajajfinserv.in/offers" },
+      { "id": "menu", "label": "Menu", "icon": "ic_menu", "action": "open_side_menu" },
+      { "id": "blu", "label": "Blu", "icon": "ic_blu", "action": "open_web", "payload": "https://www.bajajfinserv.in/" }
+    ]
+  }
+}
