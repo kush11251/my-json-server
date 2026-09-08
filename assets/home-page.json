@@ -2956,21 +2956,7 @@
       "template": "",
       "backgd": "",
       "data": [
-        {
-          "featureNameTag": "Hot Deals",
-          "webLink": "https://hamaramall.com?utm_source=BFLweb&utm_medium=FPS&utm_campaign=Food&Shopping",
-          "featureDesc": "",
-          "featureIconLink": "https://ip-dynbanners.bajajfinserv.in/FeatureManagement/webpLID/FPS3010HotDeals.webp",
-          "featureTemplate": "",
-          "webIconLink": "https://ip-dynbanners.bajajfinserv.in/FeatureManagement/webpLID/FPS3010HotDeals.webp",
-          "featurename": "Hot Deals",
-          "featureNavigationLink": "bajajsuperapp://ondc/openondcactivity/293/https://hamaramall.com?utm_source=BFLapp&utm_medium=FPS&utm_campaign=Food&Shopping",
-          "featureDescTag": "",
-          "featurenavigationlink2": "",
-          "webLink2": "",
-          "featureId": "DPAOP_FPSR_HotDeals",
-          "status": "Y"
-        },
+        
         {
           "featureNameTag": "Electronics On EMI",
           "webLink": "https://qa-aem.bajajfinserv.in/electronics-on-emis",

@@ -4,7 +4,7 @@
     "visible": true,
     "backgroundColor": "#FF1B3054",
     "textColor": "#FFFFFFFF",
-    "searchHint": "Search Bajaj Finance New",
+    "searchHint": "Search Bajaj Finance",
     "quickActions": [
       { "id": "loans", "label": "LOANS", "icon": "ic_loans", "action": "open_fragment_1" },
       { "id": "emi", "label": "EMI", "icon": "ic_emi", "action": "open_fragment_1" },
